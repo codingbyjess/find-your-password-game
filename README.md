@@ -16,10 +16,10 @@ Code developed for algorithms course, where we built a game called "Find Your Pa
     <li><strong>_	</strong>Digit does not exist in the password.</li>
 </ul>
 
-technologies
+# technologies
 <ul>
     <li>.rand() to generate the random digits.</li>
-    <li><li>.fail() to verify the input.</li></li>
+    <li>.fail() to verify the input.</li>
     <li>.clear() to reset the wrong input.</li>
     <li>.ignore() to clear the buffer.</li>
 </ul>
